@@ -1,4 +1,4 @@
-[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-blue.svg)]()
+[![Download on the App Store](https://img.shields.io/badge/Download_on_the-App_Store-blue.svg)](https://apps.apple.com/fr/app/lirot-ai/id6478242092)
 [![website](https://img.shields.io/badge/official-website-darkGreen.svg)](https://www.aimlab-technion.com/lirot-ai)
 [![arXiv](https://img.shields.io/badge/arXiv-2208.10100-red.svg)](https://arxiv.org/abs/2208.10100)
 [![Privacy Policy](https://img.shields.io/badge/Privacy-Policy-green)](/Privacy%20Policy)
